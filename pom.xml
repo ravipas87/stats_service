@@ -110,11 +110,6 @@
 						</configuration>
 					</execution>
 				</executions>
-				<configuration>
-					<excludes>
-						<exclude>**/entity/**</exclude>
-					</excludes>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
